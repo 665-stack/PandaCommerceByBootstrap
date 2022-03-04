@@ -5,18 +5,19 @@
     width: 110px;
 }
 .panda-btn-buynow{
-     background: linear-gradient(rgb(243, 67, 120),rgb(247, 204, 63));
+     background-color: rgb(255, 54, 114);
      padding: 7px 20px;
      border: none;
      border-radius: 5px;
      color: white;
 }
 .panda-btn-buynow:hover{
-    background:linear-gradient(rgb(247, 204, 63),rgb(243, 67, 120));
+    background-color: rgb(253, 101, 147);
 }
 .subscribe-btn{
-    background: linear-gradient(rgb(243, 67, 120),rgb(247, 204, 63));
+    background-color: rgb(245, 154, 182);
     padding: 7px 20px;
+    
     border-radius: 5px;
 }
 .card {
